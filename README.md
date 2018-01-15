@@ -37,13 +37,13 @@ Topics course Mathematics of Deep Learning, NYU, Spring 18
 * Minimax and Alpha-Beta Pruning
   * Knuth: Sections 1-3, 6-7
   * Optional:
-  * Alpha-Beta:
-https://chessprogramming.wikispaces.com/Alpha-Beta,
-http://blog.hackerearth.com/minimax-algorithm-alpha-beta-pruning,
-https://www.cs.cornell.edu/courses/cs312/2002sp/lectures/rec21.htm
-  * Minimax: 
-https://chessprogramming.wikispaces.com/Minimax
-https://www.youtube.com/watch?v=6ELUvkSkCts
+    * Alpha-Beta:
+      https://chessprogramming.wikispaces.com/Alpha-Beta,
+      http://blog.hackerearth.com/minimax-algorithm-alpha-beta-pruning,
+      https://www.cs.cornell.edu/courses/cs312/2002sp/lectures/rec21.htm
+    * Minimax: 
+      https://chessprogramming.wikispaces.com/Minimax
+      https://www.youtube.com/watch?v=6ELUvkSkCts
 * Multi-Armed Bandits and UCB (Upper Confidence Bound)
   * Sutton 2.1 - 2.6 (Note: would host Sutton)
   * UCB1 Paper: https://homes.di.unimi.it/~cesabian/Pubblicazioni/ml-02.pdf
@@ -51,16 +51,16 @@ https://www.youtube.com/watch?v=6ELUvkSkCts
     * UCB Paper http://www.jmlr.org/papers/volume3/auer02a/auer02a.pdf
     * UCB1 Write-Up: https://jeremykun.com/2013/10/28/optimism-in-the-face-of-uncertainty-the-ucb1-algorithm/
 * Policy and Value functions
- * Value: 
-  * Sutton 9.1, 9.2
-  * Silver: https://www.youtube.com/watch?v=UoPei5o4fps, 
-  * Optional:
-http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/FA.pdf,
-https://people.eecs.berkeley.edu/~pabbeel/cs287-fa11/slides/mdps-intro-value-iteration.pdf
- * Policy:
-  * Sutton 13.1, 13.2, 
-  * Silver: https://www.youtube.com/watch?v=KHZVXao4qXs
-  * Optional: http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/pg.pdf
+  * Value: 
+    * Sutton 9.1, 9.2
+    * Silver: https://www.youtube.com/watch?v=UoPei5o4fps, 
+    * Optional:
+      http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/FA.pdf,
+      https://people.eecs.berkeley.edu/~pabbeel/cs287-fa11/slides/mdps-intro-value-iteration.pdf
+  * Policy:
+    * Sutton 13.1, 13.2, 
+    * Silver: https://www.youtube.com/watch?v=KHZVXao4qXs
+    * Optional: http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/pg.pdf
 * MCTS and UCT (UCB applied to trees)
   * Silver Thesis (Note: would host the thesis): 1.4.2 (MCTS), 3.3.2 - 3.3.5 (MCTS), 3.3.6 (UCT)
   * Sutton: 8.7

@@ -45,11 +45,11 @@ https://www.cs.cornell.edu/courses/cs312/2002sp/lectures/rec21.htm
 https://chessprogramming.wikispaces.com/Minimax
 https://www.youtube.com/watch?v=6ELUvkSkCts
 * Multi-Armed Bandits and UCB (Upper Confidence Bound)
- * Sutton 2.1 - 2.6 (Note: would host Sutton)
- * UCB1 Paper: https://homes.di.unimi.it/~cesabian/Pubblicazioni/ml-02.pdf
- * Optional:
-  * UCB Paper http://www.jmlr.org/papers/volume3/auer02a/auer02a.pdf
-  * UCB1 Write-Up: https://jeremykun.com/2013/10/28/optimism-in-the-face-of-uncertainty-the-ucb1-algorithm/
+  * Sutton 2.1 - 2.6 (Note: would host Sutton)
+  * UCB1 Paper: https://homes.di.unimi.it/~cesabian/Pubblicazioni/ml-02.pdf
+  * Optional:
+    * UCB Paper http://www.jmlr.org/papers/volume3/auer02a/auer02a.pdf
+    * UCB1 Write-Up: https://jeremykun.com/2013/10/28/optimism-in-the-face-of-uncertainty-the-ucb1-algorithm/
 * Policy and Value functions
  * Value: 
   * Sutton 9.1, 9.2

@@ -57,8 +57,8 @@ Details TBA.
   * Knuth: Sections 1-3, 6-7
   * Optional:
     * Alpha-Beta:
-      https://chessprogramming.wikispaces.com/Alpha-Beta,
-      http://blog.hackerearth.com/minimax-algorithm-alpha-beta-pruning,
+      [1](https://chessprogramming.wikispaces.com/Alpha-Beta),
+      [sd]http://blog.hackerearth.com/minimax-algorithm-alpha-beta-pruning,
       https://www.cs.cornell.edu/courses/cs312/2002sp/lectures/rec21.htm
     * Minimax: 
       https://chessprogramming.wikispaces.com/Minimax

@@ -57,12 +57,8 @@ Details TBA.
   * Knuth: Sections 1-3, 6-7
   * Optional:
     * Alpha-Beta:
-      [1](https://chessprogramming.wikispaces.com/Alpha-Beta),
-      [sd]http://blog.hackerearth.com/minimax-algorithm-alpha-beta-pruning,
-      https://www.cs.cornell.edu/courses/cs312/2002sp/lectures/rec21.htm
-    * Minimax: 
-      https://chessprogramming.wikispaces.com/Minimax
-      https://www.youtube.com/watch?v=6ELUvkSkCts
+      [1](https://chessprogramming.wikispaces.com/Alpha-Beta),[2](http://blog.hackerearth.com/minimax-algorithm-alpha-beta-pruning),[3](https://www.cs.cornell.edu/courses/cs312/2002sp/lectures/rec21.htm).
+    * Minimax: [1](https://chessprogramming.wikispaces.com/Minimax), [2](https://www.youtube.com/watch?v=6ELUvkSkCts)
 * Multi-Armed Bandits and UCB (Upper Confidence Bound)
   * Sutton 2.1 - 2.6 (Note: would host Sutton)
   * UCB1 Paper: https://homes.di.unimi.it/~cesabian/Pubblicazioni/ml-02.pdf

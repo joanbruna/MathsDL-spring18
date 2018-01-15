@@ -31,7 +31,7 @@ Notions of Harmonic Analysis, Differential Geometry and Stochastic Calculus are 
 The course will be graded with a final research project plus a participation grade. 
 Details TBA. 
 
-### Lectures
+## Lectures
 
 *  Introduction: the Curse of Dimensionality [1 lecture]
 
@@ -100,7 +100,5 @@ Details TBA.
   * Thinking Fast and Slow with Tree Search  
 
 
-
-## Grading
 
 

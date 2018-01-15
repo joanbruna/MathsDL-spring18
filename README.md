@@ -68,17 +68,17 @@ Topics course Mathematics of Deep Learning, NYU, Spring 18
   * Optional & fun —> 7.2, 7.3, 7.5, 7.7
   * Jess Hamrick Summary
   * Optional:
-https://hal.archives-ouvertes.fr/file/index/docid/116992/filename/CG2006.pdf (orig MCTS paper)
-http://ggp.stanford.edu/readings/uct.pdf (UCT paper)
+      https://hal.archives-ouvertes.fr/file/index/docid/116992/filename/CG2006.pdf (orig MCTS paper)
+      http://ggp.stanford.edu/readings/uct.pdf (UCT paper)
 * MCTS & RL
- * http://www.jair.org/media/5507/live-5507-10333-jair.pdf: 3.1-3.3, 4.3-4.5, 
- * Optional: Section 5
+  * http://www.jair.org/media/5507/live-5507-10333-jair.pdf: 3.1-3.3, 4.3-4.5, 
+  * Optional: Section 5
 * AlphaZero: Putting it all together
- * Silver Thesis: 4.6.1-4.6.3 (history in Go)
- * The Paper (Mastering the Game of Go Without Human Knowledge)
- * Optional:
-http://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning.pdf
- * Thinking Fast and Slow with Tree Search  
+  * Silver Thesis: 4.6.1-4.6.3 (history in Go)
+  * The Paper (Mastering the Game of Go Without Human Knowledge)
+  * Optional:
+    http://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning.pdf
+  * Thinking Fast and Slow with Tree Search  
 
 
 

@@ -9,9 +9,9 @@ Recitation (**optional**): Fridays 12pm-2pm TBA.
 
 ## Instructors
 
-Lecture Instructor: Joan Bruna (bruna@cims.nyu.edu)
+__Lecture Instructor__: Joan Bruna (bruna@cims.nyu.edu)
 
-Lab Instructor: Cinjon Resnik (cinjon@nyu.edu)
+__Lab Instructor__: Cinjon Resnik (cinjon@nyu.edu)
 
 
 ## Syllabus
@@ -23,6 +23,7 @@ Besides the lectures, we will also run a parallel curricula (optional), which, s
 ## Pre-requisites
 
 Multivariate Calculus, Linear Algebra, Probability and Statistics at solid undergraduate level.
+
 Notions of Harmonic Analysis, Differential Geometry and Stochastic Calculus are nice-to-have, but not essential.
 
 ## Grading

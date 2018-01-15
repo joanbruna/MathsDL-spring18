@@ -35,8 +35,8 @@ Topics course Mathematics of Deep Learning, NYU, Spring 18
 ### Lab sessions / Parallel Curricula
 
 * Minimax and Alpha-Beta Pruning
- * Knuth: Sections 1-3, 6-7
- * Optional:
+  * Knuth: Sections 1-3, 6-7
+  * Optional:
   * Alpha-Beta:
 https://chessprogramming.wikispaces.com/Alpha-Beta,
 http://blog.hackerearth.com/minimax-algorithm-alpha-beta-pruning,

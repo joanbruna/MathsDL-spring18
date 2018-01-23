@@ -61,9 +61,10 @@ Details TBA.
     * [Cornell Recitation on Minimax & AB Pruning](https://www.cs.cornell.edu/courses/cs312/2002sp/lectures/rec21.htm)
     * [Knuth](https://pdfs.semanticscholar.org/dce2/6118156e5bc287bca2465a62e75af39c7e85.pdf): 6 (Theorems 1&2, Corollaries 1&3).
   * Optional Reading:
+    * [CMU's MFAI Lecture 1](https://www.cs.cmu.edu/~arielpro/mfai_papers/lecture1.pdf).
+    * Knuth: 1-3.    
     * [Chess Programming on Minimax](https://chessprogramming.wikispaces.com/Minimax)
     * [Chess Programming on AB Pruning](https://chessprogramming.wikispaces.com/Alpha-Beta)
-    * Knuth: 1-3.
   * Questions:
     * (Knuth) Show that AlphaBetaMin(p, alpha, beta) = -AlphaBetaMax(p, -beta, -alpha). (p. 300)
     * (Knuth) For Theorem 1.(1), why are the successor positions of type 2? (p. 305)

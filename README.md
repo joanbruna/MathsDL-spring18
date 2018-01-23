@@ -3,7 +3,7 @@ Topics course Mathematics of Deep Learning, NYU, Spring 18. CSCI-GA 3033.
 
 ## Logistics
 
-Tuesdays from 7.10pm-9pm. CIWW 1012
+Tuesdays from 7.10pm-9pm. CIWW 102
 
 Recitation (**optional**): Fridays 11am-12:30pm CIWW 101. The first week **only** it is 10:30am-12pm.
 

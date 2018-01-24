@@ -7,7 +7,7 @@ Tuesdays from 7.10pm-9pm. CIWW 102
 
 Recitation (**optional**): Fridays 11am-12:30pm CIWW 101. The first week **only** it is 10:30am-12pm.
 
-Piazza: [sign-up here](piazza.com/nyu/spring2018/csciga3033)
+Piazza: [sign-up here](https://piazza.com/nyu/spring2018/csciga3033)
 
 ## Instructors
 

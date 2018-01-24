@@ -1,6 +1,5 @@
 <a name="lec1"></a>
-
-## Lecture 1
+## Lecture 1: The Curse of Dimensionality
 
 * ["Breaking the curse of dimensionality with convex neural networks", F. Bach](http://www.jmlr.org/papers/volume18/14-546/14-546.pdf)
 

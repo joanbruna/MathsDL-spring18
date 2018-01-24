@@ -7,6 +7,8 @@ Tuesdays from 7.10pm-9pm. CIWW 102
 
 Recitation (**optional**): Fridays 11am-12:30pm CIWW 101. The first week **only** it is 10:30am-12pm.
 
+Piazza: [sign-up here](piazza.com/nyu/spring2018/csciga3033)
+
 ## Instructors
 
 __Lecture Instructor__: Joan Bruna (bruna@cims.nyu.edu)
@@ -19,6 +21,25 @@ __Lab Instructor__: Cinjon Resnick (cinjon@nyu.edu)
 This Graduate-level topics course aims at offering a glimpse into the emerging mathematical questions around Deep Learning. In particular, we will focus on the different geometrical aspects surounding these models, from input geometric stability priors to the geometry of optimization, generalisation and learning. We will cover both the background and the current open problems. 
 
 Besides the lectures, we will also run a parallel curricula (optional), which, starting from a landmark recent DL paper (AlphaGo), will trace back the fundamentals of Dynammic Programming, Policy Learning and Monte-Carlo Tree Search through the literature and lab materials. 
+
+### Detailed Syllabus 
+
+*  Introduction: the Curse of Dimensionality
+
+* Part I: Geometry of Data
+  * Euclidean Geometry: transportation metrics, CNNs , scattering. 
+  * Non-Euclidean Geometry: Hausdorff-Gromov distances, Graph Neural Networks. 
+  * Unsupervised Learning under Geometric Priors (Implicit vs explicit models, microcanonical, transportation metrics).
+  * Applications and Open Problems: adversarial examples, graph inference, inverse problems.
+
+* Part II: Geometry of Optimization and Generalization
+  * Stochastic Optimization (Robbins & Munro, Convergence of SGD) 
+  * Stochastic Differential Equations (Fokker-Plank, Gradient Flow, Langevin Dynamics, links with SGD; open problems) 
+  * Information Geometry and Optimal Transport (Amari, Fisher-Rao metric, Wasserstein) 
+  * Reproducing Kernel Hilbert Spaces 
+  * Landscape of Deep Learning Optimization (Tensor/Matrix factorization, Deep Nets; open problems). 
+  * Generalization in Deep Learning. 
+
 
 ## Pre-requisites
 
@@ -33,22 +54,24 @@ Details TBA.
 
 ## Lectures
 
-*  Introduction: the Curse of Dimensionality [1 lecture]
+| Week        | Lecture Date           | Topic       |  References                     |
+| ---------------|----------------| ------------|---------------------------|
+| 1 | 1/23  | **Lec1** Introduction: The Curse of Dimensionality in ML [Slides](https://github.com/joanbruna/MathsDL-spring18/blob/master/lectures/lecture1.pdf) |  [References](doc/refs.md#lec1)  |
+| 2 | 1/30  | **Lec2** Euclidean Geometric Stability. Scattering Transforms. Convolutional Neural Nets |  [References](doc/refs.md#lec2)  |
+| 3 | 2/6  | **Guest** TBA |  [References](doc/refs.md#lec3)  |
+| 4 | 2/13  | **Lec3** Non-Euclidean Geometric Stability. Gromov-Hausdorff distances. Graph Neural Nets |  [References](doc/refs.md#lec3)  |
+| 5 | 2/20  | **Lec4** Unsupervised Learning under Geometric Priors. Implicit vs Explicit models. Optimal Transport models. Microcanonical Models.   |  [References](doc/refs.md#lec4)  |
+| 6 | 2/27  | **Lec5** Applications and Open Problems. End of Part I.  |  [References](doc/refs.md#lec5)  |
+| 7 | 3/6  | **Lec6** Stochastic Optimization. Convergence properties (or lack thereof).   |  [References](doc/refs.md#lec6)  |
+| 8 | 3/13  | **Spring Break**  |  [References](doc/refs.md#lec8)  |
+| 9 | 3/20  | **Lec7** Discrete vs Continuous Time Optimization. Fokker-Plank. Langevin Dynamics.  |  [References](doc/refs.md#lec7)  |
+| 10 | 3/27  | **Lec8** Landscape of Deep Learning Optimization. Tensor factorization |  [References](doc/refs.md#lec8)  |
+| 11 | 4/3  | **Lec9** Landscape of Deep Learning Optimization (cont'd). |  [References](doc/refs.md#lec9)  |
+| 12 | 4/10  | **Lec10** Information Geometry. |  [References](doc/refs.md#lec10)  |
+| 13 | 4/17  | **Lec11** Reproducing Kernel Hilbert Spaces |  [References](doc/refs.md#lec11)  |
+| 14 | 4/24  | **Lec12** Optimal Transport in ML. Adversarial Training |  [References](doc/refs.md#lec12)  |
+| 15 | 5/1  | **Lec13** Generalization. Review of Rademacher complexity. Stability. |  [References](doc/refs.md#lec13)  |
 
-
-* Part I: Geometry of Data
-  * Euclidean Geometry: transportation metrics, CNNs , scattering. [2 lectures]
-  * Non-Euclidean Geometry: Hausdorff-Gromov distances, Graph Neural Networks. [1 lecture]
-  * Unsupervised Learning under Geometric Priors (Implicit vs explicit models, microcanonical, transportation metrics). [1 lecture]
-  * Reproducing Kernel Hilbert Spaces [1 lecture]
-  * Applications and Open Problems: adversarial examples, graph inference, inverse problems. [1 lecture]
-
-* Part II: Geometry of Optimization and Generalization
-  * Stochastic Optimization (Robbins & Munro, Convergence of SGD) [1.5 lecture]
-  * Stochastic Differential Equations (Fokker-Plank, Gradient Flow, Langevin Dynamics, links with SGD; open problems) [1.5 lecture]
-  * Information Geometry (Amari, Fisher-Rao metric, Wasserstein) [0.5 lecture]
-  * Landscape of Deep Learning Optimization (Tensor/Matrix factorization, Deep Nets; open problems). [1.5 lecture]
-  * Generalization: (Rademacher Complexity, Entropy Bounds, Covering Numbers; measuring capacity in CNNs; open problems). [2 lectures]
 
 
 ### Lab sessions / Parallel Curricula

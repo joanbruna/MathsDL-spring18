@@ -76,7 +76,22 @@ Details TBA.
 
 ### Lab sessions / Parallel Curricula
 
-* AlphaGoZero living document: https://goo.gl/iFZ4XD
+## AlphaGoZero living document: https://goo.gl/iFZ4XD
+
+* Class 2: Multi-Armed Bandits and Upper Confidence Bounds
+  * Motivation: Bandits and UCB are key components of how MCTS was originally formalized. The node selection during the search is achieved through the UCB approach, which is analogues to how its performed in a multi-armed bandit scenario.
+  * Required Reading: 
+    * Sutton: Sections 2.1 - 2.6 (Find on newclasses.nyu.edu in the class materials)
+    * Jeremy Kun: Optimizing in the Face of Uncertainty
+  * Optional Reading:
+    * Original UCB1 Paper
+    * UW Lecture Notes
+  * Questions:
+    * Sutton Exercises 2.1, 2.2, 2.4, 2.5
+    * Sutton: What are the pros and cons of the optimistic initial values method?
+    * Kun: In the proof for the expected cumulative regret of UCB1, why is delta(T) a trivial regret bound if the deltas are all the same?
+    * Kun: Do you understand the argument for why the regret bound is O(sqrt(KTlog(T)))?
+    * Can you reproduce the UCB1 algorithm?
 
 * Class 1: Minimax and Alpha Beta Pruning
   * Motivation: These original core ideas did so much for the study of games. They spurred the field forward starting in the 50s and still to this day have mindshare in how to build a computer engine that beats games, including in popular chess engines like Stockfish.
@@ -94,3 +109,5 @@ Details TBA.
     * (Knuth) For Theorem 1.(2), why is it that p’s successor position is of type 3 if p is not terminal?
     * (Knuth) For Theorem 1.(3), why is it that p’s successor positions are of type 2 if p is not terminal?
     * (Knuth) Show that the subparts of Theorem 2, are correct.
+
+

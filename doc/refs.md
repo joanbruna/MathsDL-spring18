@@ -40,3 +40,5 @@
 * [Exponential Decay of Scattering Coefficients](http://ieeexplore.ieee.org/abstract/document/8024473/), I. Waldspurger.
 
 * [Analysis of Time-Frequency Scattering Transforms](https://www.sciencedirect.com/science/article/pii/S1063520317300933), Czaja and Li.
+
+* [Energy Propagation in Deep Convolutional Neural Networks](http://ieeexplore.ieee.org/abstract/document/8051085/), Wiatowski et al. 

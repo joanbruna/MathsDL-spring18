@@ -5,7 +5,7 @@ Topics course Mathematics of Deep Learning, NYU, Spring 18. CSCI-GA 3033.
 
 Tuesdays from 7.10pm-9pm. CIWW 102
 
-Recitation (**optional**): Fridays 11am-12:30pm CIWW 101. The first week **only** it is 10:30am-12pm.
+Tutoring Session with Parallel Curricula (**optional**): Fridays 11am-12:30pm CIWW 101. The first week **only** it is 10:30am-12pm.
 
 Piazza: [sign-up here](https://piazza.com/nyu/spring2018/csciga3033)
 
@@ -13,7 +13,7 @@ Piazza: [sign-up here](https://piazza.com/nyu/spring2018/csciga3033)
 
 __Lecture Instructor__: Joan Bruna (bruna@cims.nyu.edu)
 
-__Lab Instructor__: Cinjon Resnick (cinjon@nyu.edu)
+__Tutor (Parallel Curricula)__: Cinjon Resnick (cinjon@nyu.edu)
 
 
 ## Syllabus
@@ -49,8 +49,8 @@ Notions of Harmonic Analysis, Differential Geometry and Stochastic Calculus are 
 
 ## Grading
 
-The course will be graded with a final research project plus a participation grade. 
-Details TBA. 
+The course will be graded with a final project -- consisting in an in-depth survey of a topic related to the syllabus,
+plus a participation grade. The detailed abstract of the project will be graded at the mid-term. 
 
 ## Lectures
 

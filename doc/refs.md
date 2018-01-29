@@ -21,3 +21,19 @@
 
 * ["Failures of Gradient-Based Deep Learning", S. Shalev-Shwartz et al.](https://arxiv.org/pdf/1703.07950.pdf)
 
+
+
+<a name="lec2"></a>
+## Lecture 2: Geometric Stability in Euclidean Domains: The Scattering Transform. 
+
+### Main References: 
+
+* [Group Invariant Scattering](https://www.di.ens.fr/~mallat/papiers/ScatCPAM.pdf), S. Mallat
+
+* [Invariant Scattering Convolutional Networks](http://ieeexplore.ieee.org/abstract/document/6522407/), J.Bruna, S. Mallat
+
+### Further References:
+
+* [Exponential Decay of Scattering Coefficients](http://ieeexplore.ieee.org/abstract/document/8024473/), I. Waldspurger.
+
+* [Analysis of Time-Frequency Scattering Transforms](https://www.sciencedirect.com/science/article/pii/S1063520317300933), Czaja and Li.

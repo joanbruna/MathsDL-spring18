@@ -3,11 +3,13 @@ Topics course Mathematics of Deep Learning, NYU, Spring 18. CSCI-GA 3033.
 
 ## Logistics
 
-Tuesdays from 7.10pm-9pm. CIWW 102
+* Tuesdays from 7.10pm-9pm. CIWW 102
 
-Tutoring Session with Parallel Curricula (**optional**): Fridays 11am-12:30pm CIWW 101. The first week **only** it is 10:30am-12pm.
+* Tutoring Session with Parallel Curricula (**optional**): Fridays 11am-12:30pm CIWW 101. The first week **only** it is 10:30am-12pm.
 
-Piazza: [sign-up here](https://piazza.com/nyu/spring2018/csciga3033)
+* Piazza: [sign-up here](https://piazza.com/nyu/spring2018/csciga3033)
+
+* Office Hours: Tuesdays 9:30am-11:00am
 
 ## Instructors
 

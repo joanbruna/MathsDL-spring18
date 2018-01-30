@@ -59,7 +59,7 @@ plus a participation grade. The detailed abstract of the project will be graded 
 | Week        | Lecture Date           | Topic       |  References                     |
 | ---------------|----------------| ------------|---------------------------|
 | 1 | 1/23  | **Lec1** Introduction: The Curse of Dimensionality in ML [Slides](https://github.com/joanbruna/MathsDL-spring18/blob/master/lectures/lecture1.pdf) |  [References](doc/refs.md#lec1)  |
-| 2 | 1/30  | **Lec2** Euclidean Geometric Stability. Scattering Transforms. Convolutional Neural Nets |  [References](doc/refs.md#lec2)  |
+| 2 | 1/30  | **Lec2** Euclidean Geometric Stability. Scattering Transforms. [Slides](https://github.com/joanbruna/MathsDL-spring18/blob/master/lectures/lecture2.pdf) |  [References](doc/refs.md#lec2)  |
 | 3 | 2/6  | **Guest Lecture: Leon Bottou (Facebook/NYU)**  |  [References](doc/refs.md#lec3)  |
 | 4 | 2/13  | **Lec3** Non-Euclidean Geometric Stability. Gromov-Hausdorff distances. Graph Neural Nets |  [References](doc/refs.md#lec3)  |
 | 5 | 2/20  | **Lec4** Unsupervised Learning under Geometric Priors. Implicit vs Explicit models. Optimal Transport models. Microcanonical Models.   |  [References](doc/refs.md#lec4)  |

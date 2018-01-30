@@ -84,10 +84,10 @@ plus a participation grade. The detailed abstract of the project will be graded 
   * Motivation: Bandits and UCB are key components of how MCTS was originally formalized. The node selection during the search is achieved through the UCB approach, which is analogues to how its performed in a multi-armed bandit scenario.
   * Required Reading: 
     * Sutton: Sections 2.1 - 2.6 (Find on newclasses.nyu.edu in the class materials)
-    * Jeremy Kun: Optimizing in the Face of Uncertainty
+    * [Jeremy Kun: Optimizing in the Face of Uncertainty](https://jeremykun.com/2013/10/28/optimism-in-the-face-of-uncertainty-the-ucb1-algorithm/)
   * Optional Reading:
-    * Original UCB1 Paper
-    * UW Lecture Notes
+    * [Original UCB1 Paper](https://homes.di.unimi.it/~cesabian/Pubblicazioni/ml-02.pdf)
+    * [UW Lecture Notes](https://courses.cs.washington.edu/courses/cse599s/14sp/scribes/lecture15/lecture15_draft.pdf)
   * Questions:
     * Sutton Exercises 2.1, 2.2, 2.4, 2.5
     * Sutton: What are the pros and cons of the optimistic initial values method?

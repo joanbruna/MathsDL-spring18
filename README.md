@@ -80,6 +80,33 @@ plus a participation grade. The detailed abstract of the project will be graded 
 
 ## AlphaGoZero living document: https://goo.gl/iFZ4XD
 
+* Class 3: Policy and Value Functions
+  * Motivation: The Policy and Value Functions are at the core of Reinforcement Learning. The Policy function is the set of probabilities you give to each possible move. The Value function is your estimate of how good is the current state. In AlphaGoZero, a single network calculates both a value and a policy, then later updates its weights based off of the difference between those figures and the empirical results.
+  * Required Reading (note: Sutton from here out refers to the [final version](http://incompleteideas.net/book/bookdraft2017nov5.pdf). Make sure it says COMPLETE DRAFT):
+    * Value Function:
+      * Sutton 3.5, 3.6, 3.7
+      * Sutton: 9.1, 9.2, 9.3 (important!)
+    * Policy Function:
+      * Sutton: 4.1, 4.2, 4.3
+      * Sutton: 13.1, 13.2 (important!), 13.3, 13.4
+  * Optional Reading:
+    * Sergey Levine: [Berkeley Fall'17: Policy Gradients](https://www.youtube.com/watch?v=tWNpiNzWuO8&feature=youtu.be) →  This is really good.
+    * Sergey Levine: [Berkeley Fall'17: Value Functions](https://www.youtube.com/watch?v=k1vNh4rNYec&feature=youtu.be) → This is really good.
+    * [Karpathy does Pong](http://karpathy.github.io/2016/05/31/rl/).
+    * [David Silver on PG](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/pg.pdf).
+    * [David Silver on Value](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/FA.pdf).
+  * Questions:
+    * Why does policy gradient have such high variance?
+    * What is the difference between off-policy and on-policy?
+    * Sutton:
+      * 3.13: What is the Bellman equation for action values, that is, for qπ? ...
+      * 3.14: In the gridworld example … are the signs of these rewards important, or only the intervals between them? Prove ...
+      * 3.15: Now consider adding a constant c to all the rewards in an episodic task … would this have any effect, or would it leave the task unchanged as in the continuing task above? Why or why not? Give an example. 
+      * 3.20: Give the Bellman equation for q∗ for the recycling robot. 
+      * 4.3: What are the equations analogous to (4.3), (4.4), and (4.5) for the action-value function qπ and its successive approximation by a sequence of functions q0, q1, q2, . . . ? 
+      * 4.6 (important!): How would policy iteration be defined for action values? Give a complete algorithm for computing q∗, analogous to that on page 65 for computing v∗. Please pay special attention to this exercise, because the ideas involved will be used throughout the rest of the book. 
+      * 13.2 (important!): Prove (13.7) using the definitions and elementary calculus.
+    
 * Class 2: Multi-Armed Bandits and Upper Confidence Bounds
   * Motivation: Bandits and UCB are key components of how MCTS was originally formalized. The node selection during the search is achieved through the UCB approach, which is analogues to how its performed in a multi-armed bandit scenario.
   * Required Reading: 

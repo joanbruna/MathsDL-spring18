@@ -80,6 +80,25 @@ plus a participation grade. The detailed abstract of the project will be graded 
 
 ## AlphaGoZero living document: https://goo.gl/iFZ4XD
 
+* Class 4: MCTS & UCT
+  * Motivation: Monte Carlo Tree Search (MCTS) forms the backbone of AlphaGoZero. It’s what lets it reliably explore and then hone in on the best policy. UCT (UCB for Trees) builds on top of what we’ve been learning and, paired with MCTS, is integral to the training process.
+  * Required Reading:
+    * [Sutton](http://incompleteideas.net/book/bookdraft2017nov5.pdf): Section 8.11
+    * [Browne](https://gnunet.org/sites/default/files/Browne%20et%20al%20-%20A%20survey%20of%20MCTS%20methods.pdf): Sections 2.2, 2.4, 3.1-3.5, 8.2-8.4.
+    * [Silver Thesis](http://papersdb.cs.ualberta.ca/~papersdb/uploaded_files/1029/paper_thesis.pdf): Sections 1.4.2 and 3.
+  * Optional Reading:
+    * [Jess Hamrick on Browne](http://jhamrick.github.io/quals/planning%20and%20decision%20making/2015/12/16/Browne2012.html).
+    * [Original MCTS Paper](https://hal.archives-ouvertes.fr/file/index/docid/116992/filename/CG2006.pdf).
+    * [Original UCT Paper](http://ggp.stanford.edu/readings/uct.pdf).
+    * Browne: 
+      * 4.8: MCTS applied to Stochastic or Imperfect Information Games.
+      * 7.2, 7.3, 7.5, 7.7: Applications of MCTS.
+  * Questions:
+    * Can you detail each of the four parts of the MCTS algorithm?
+    * What characteristics make MCTS a good choice?
+    * What are examples of domain knowledge default policies in Go?
+    * Why is UCT optimal? Can you prove that the failure probability at the root converges to zero at a polynomial rate in the number of games simulated?
+
 * Class 3: Policy and Value Functions
   * Motivation: The Policy and Value Functions are at the core of Reinforcement Learning. The Policy function is the set of probabilities you give to each possible move. The Value function is your estimate of how good is the current state. In AlphaGoZero, a single network calculates both a value and a policy, then later updates its weights based off of the difference between those figures and the empirical results.
   * Required Reading (note: Sutton from here out refers to the [final version](http://incompleteideas.net/book/bookdraft2017nov5.pdf). Make sure it says COMPLETE DRAFT):

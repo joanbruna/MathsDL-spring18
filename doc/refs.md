@@ -27,13 +27,25 @@
 
 
 <a name="lec2"></a>
-## Lecture 2: Geometric Stability in Euclidean Domains: The Scattering Transform. 
+## Lecture 2: Geometric Stability in Euclidean Domains. 
 
 ### Main References: 
 
 * [Group Invariant Scattering](https://www.di.ens.fr/~mallat/papiers/ScatCPAM.pdf), S. Mallat
 
 * [Invariant Scattering Convolutional Networks](http://ieeexplore.ieee.org/abstract/document/6522407/), J.Bruna, S. Mallat
+
+
+<a name="lec3"></a>
+## Lecture 3: The Scattering Transform and Beyond
+
+### Main References: 
+
+* [Group Invariant Scattering](https://www.di.ens.fr/~mallat/papiers/ScatCPAM.pdf), S. Mallat
+
+* [Scattering Representations for Recognition](https://pastel.archives-ouvertes.fr/file/index/docid/905109/filename/phdmain_final.pdf), J.Bruna PhD Thesis.
+
+* [Rotation, Scaling and Deformation Invariant Scattering for Texture Discrimination](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Sifre_Rotation_Scaling_and_2013_CVPR_paper.pdf), Sifre and Mallat, CVPR15.
 
 ### Further References:
 
@@ -42,3 +54,4 @@
 * [Analysis of Time-Frequency Scattering Transforms](https://www.sciencedirect.com/science/article/pii/S1063520317300933), Czaja and Li.
 
 * [Energy Propagation in Deep Convolutional Neural Networks](http://ieeexplore.ieee.org/abstract/document/8051085/), Wiatowski et al. 
+

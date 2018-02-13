@@ -59,11 +59,11 @@ plus a participation grade. The detailed abstract of the project will be graded 
 | Week        | Lecture Date           | Topic       |  References                     |
 | ---------------|----------------| ------------|---------------------------|
 | 1 | 1/23  | **Lec1** Introduction: The Curse of Dimensionality in ML [Slides](https://github.com/joanbruna/MathsDL-spring18/blob/master/lectures/lecture1.pdf) |  [References](doc/refs.md#lec1)  |
-| 2 | 1/30  | **Lec2** Euclidean Geometric Stability. Scattering Transforms. [Slides](https://github.com/joanbruna/MathsDL-spring18/blob/master/lectures/lecture2.pdf) |  [References](doc/refs.md#lec2)  |
+| 2 | 1/30  | **Lec2** Euclidean Geometric Stability. [Slides](https://github.com/joanbruna/MathsDL-spring18/blob/master/lectures/lecture2.pdf) |  [References](doc/refs.md#lec2)  |
 | 3 | 2/6  | **Guest Lecture: Leon Bottou (Facebook/NYU)** [Slides](https://github.com/joanbruna/MathsDL-spring18/blob/master/lectures/bottou-02.06.2018.pdf)  |  [References](doc/refs.md#lec3)  |
-| 4 | 2/13  | **Lec3** Non-Euclidean Geometric Stability. Gromov-Hausdorff distances. Graph Neural Nets |  [References](doc/refs.md#lec3)  |
-| 5 | 2/20  | **Lec4** Unsupervised Learning under Geometric Priors. Implicit vs Explicit models. Optimal Transport models. Microcanonical Models.   |  [References](doc/refs.md#lec4)  |
-| 6 | 2/27  | **Lec5** Applications and Open Problems. End of Part I.  |  [References](doc/refs.md#lec5)  |
+| 4 | 2/13  | **Lec3** Scattering Transforms and CNNs [Slides](https://github.com/joanbruna/MathsDL-spring18/blob/master/lectures/lecture3.pdf) |  [References](doc/refs.md#lec3)  |
+| 5 | 2/20  | **Lec4** Non-Euclidean Geometric Stability. Gromov-Hausdorff distances. Graph Neural Nets |  [References](doc/refs.md#lec3)  |
+| 6 | 2/27  | **Lec5** Unsupervised Learning under Geometric Priors. Implicit vs Explicit models. Optimal Transport models. Microcanonical Models. Open Problems  |  [References](doc/refs.md#lec5)  |
 | 7 | 3/6  | **Lec6** Stochastic Optimization. Convergence properties (or lack thereof).   |  [References](doc/refs.md#lec6)  |
 | 8 | 3/13  | **Spring Break**  |  [References](doc/refs.md#lec8)  |
 | 9 | 3/20  | **Lec7** Discrete vs Continuous Time Optimization. Fokker-Plank. Langevin Dynamics.  |  [References](doc/refs.md#lec7)  |

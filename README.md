@@ -80,6 +80,21 @@ plus a participation grade. The detailed abstract of the project will be graded 
 
 ## AlphaGoZero living document: https://goo.gl/iFZ4XD
 
+Class 5: MCTS & RL
+  * Motivation: Up to this point, we’ve learned a lot about how games can be solved and how RL works on a foundational level. Before we jump into the paper, one last foray contrasting and unifying the games vs learning perspective is worthwhile for understanding the domain more fully.
+  * Required Reading:
+    * [Vodopivec](http://www.jair.org/media/5507/live-5507-10333-jair.pdf): 
+      * Connection between MCTS and RL → 3.1-3.4
+      * Integrating MCTS and RL → 4.1-4.3
+    * [Why did TD-Gammon Work?](https://papers.nips.cc/paper/1292-why-did-td-gammon-work.pdf)
+  * Optional Reading:
+    * Vodopivec: Survey of research inspired by both fields → 5.
+  * Questions:
+    * What are key differences between MCTS and RL?
+    * UCT can be described in RL terms as the following “The original UCT searches identically as an offline on-policy every-visit MC control algorithm that uses UCB1 as the policy.” What do each of these terms mean?
+    * What is a Representation Policy? Give an example not described in the text.
+    * What is a Control Policy? Give an example not described in the text.
+
 * Class 4: MCTS & UCT
   * Motivation: Monte Carlo Tree Search (MCTS) forms the backbone of AlphaGoZero. It’s what lets it reliably explore and then hone in on the best policy. UCT (UCB for Trees) builds on top of what we’ve been learning and, paired with MCTS, is integral to the training process.
   * Required Reading:

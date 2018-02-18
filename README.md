@@ -80,7 +80,7 @@ plus a participation grade. The detailed abstract of the project will be graded 
 
 ## AlphaGoZero living document: https://goo.gl/iFZ4XD
 
-Class 5: MCTS & RL
+* Class 5: MCTS & RL
   * Motivation: Up to this point, we’ve learned a lot about how games can be solved and how RL works on a foundational level. Before we jump into the paper, one last foray contrasting and unifying the games vs learning perspective is worthwhile for understanding the domain more fully.
   * Required Reading:
     * [Vodopivec](http://www.jair.org/media/5507/live-5507-10333-jair.pdf): 

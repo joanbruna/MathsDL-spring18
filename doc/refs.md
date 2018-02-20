@@ -55,3 +55,21 @@
 
 * [Energy Propagation in Deep Convolutional Neural Networks](http://ieeexplore.ieee.org/abstract/document/8051085/), Wiatowski et al. 
 
+<a name="lec4"></a>
+## Lecture 4: Non-Euclidean Geometric Stability and Graph Neural Networks
+
+### Main References:
+
+* [Geometric Deep Learning: Going beyond Euclidean Data](http://geometricdeeplearning.com), M. Bronstein et al, 17
+
+### Further References:
+
+* [i-RevNet: Deep Invertible Networks](https://openreview.net/forum?id=HJsjkMb0Z), Jacobsen, Smeulders, Oyallon, ICLR'18
+
+* [Spherical CNNs](https://openreview.net/forum?id=Hkbd5xZRb), Cohen, Welling et al, ICLR'18
+
+* [Deep Image Prior](https://arxiv.org/pdf/1711.10925v2.pdf), Ulyanov, Vedaldi et al,'17
+
+* [Community Detection with Graph Neural Networks](https://arxiv.org/pdf/1705.08415.pdf), B. and Li'18
+
+

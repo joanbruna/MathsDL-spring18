@@ -80,6 +80,20 @@ plus a participation grade. The detailed abstract of the project will be graded 
 
 ## AlphaGoZero living document: https://goo.gl/iFZ4XD
 
+* Class 6: The Paper
+  * Motivation: Let's read the paper!
+  * Required Reading:
+    * [Mastering the Game of Go Without Human Knowledge](https://www.dropbox.com/s/yva172qos2u15hf/2017-silver.pdf?dl=0)
+    * [Thinking Fast and Slow with Deep Learning and Tree Search](https://arxiv.org/pdf/1705.08439.pdf)
+  * Optional Reading:
+    * [Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning](http://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning.pdf)
+    * [Silver Thesis](http://papersdb.cs.ualberta.ca/~papersdb/uploaded_files/1029/paper_thesis.pdf): Section 4.6
+    * [Mastering the game of Go with deep neural networks and tree search](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf)
+    * [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815)
+  * Questions:
+    * What were the differences between "Mastering the Game of Go ..." and "Thinking Fast and Slow ..."?
+    * What was common to both "Mastering the Game of Go ..." and "Thinking Fast and Slow ..."?
+
 * Class 5: MCTS & RL
   * Motivation: Up to this point, we’ve learned a lot about how games can be solved and how RL works on a foundational level. Before we jump into the paper, one last foray contrasting and unifying the games vs learning perspective is worthwhile for understanding the domain more fully.
   * Required Reading:

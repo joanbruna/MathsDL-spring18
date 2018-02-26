@@ -73,3 +73,19 @@
 * [Community Detection with Graph Neural Networks](https://arxiv.org/pdf/1705.08415.pdf), B. and Li'18
 
 
+<a name="lec5"></a>
+## Lecture 5: Unsupervised Learning under Geometric Priors
+
+### Main References:
+
+* [Geometrical Insights for Implicit Generative Modelling, Bottou et al. '18](https://arxiv.org/pdf/1712.07822.pdf)
+
+* [Sparse Multiscale Microcanonical Models, B. and Mallat'18](https://arxiv.org/abs/1801.02013)
+
+### Further References:
+
+* [Autoencoding Variational Bayes, Kingma & Welling'14].
+
+* [Generalization and Equilibrium in GANs, Arora et al](https://arxiv.org/pdf/1703.00573.pdf)
+
+

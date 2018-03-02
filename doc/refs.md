@@ -74,7 +74,25 @@
 
 
 <a name="lec5"></a>
-## Lecture 5: Unsupervised Learning under Geometric Priors
+## Lecture 5: Graph Neural Network Applications
+
+### Main References:
+
+* [Geometric Deep Learning: Going beyond Euclidean Data](http://geometricdeeplearning.com), M. Bronstein et al, 17
+
+* [Community Detection with Graph Neural Networks](https://arxiv.org/pdf/1705.08415.pdf), B. and Li'18
+
+* [Neural Message Passing for Quantum Chemistry, Gilmer et al.17](https://arxiv.org/abs/1704.01212)
+
+### Further References:
+
+* [Semi-Supervised Classification with Graph Convolutional Networks, Kipf & Welling](https://arxiv.org/abs/1609.02907)
+
+* [Representation Learning on Graphs: Methods and Applications, Hamilton, Ying and Leskovec](https://arxiv.org/abs/1709.05584)
+
+
+<a name="lec6"></a>
+## Lecture 6: Unsupervised Learning under Geometric Priors
 
 ### Main References:
 

@@ -90,6 +90,7 @@
 
 * [Representation Learning on Graphs: Methods and Applications, Hamilton, Ying and Leskovec](https://arxiv.org/abs/1709.05584)
 
+* [Quadratic Assignment with Graph Neural Networks, Nowak et al](https://arxiv.org/abs/1706.07450)
 
 <a name="lec6"></a>
 ## Lecture 6: Unsupervised Learning under Geometric Priors
@@ -102,7 +103,7 @@
 
 ### Further References:
 
-* [Autoencoding Variational Bayes, Kingma & Welling'14].
+* [Autoencoding Variational Bayes, Kingma & Welling'14](https://arxiv.org/abs/1312.6114).
 
 * [Generalization and Equilibrium in GANs, Arora et al](https://arxiv.org/pdf/1703.00573.pdf)
 

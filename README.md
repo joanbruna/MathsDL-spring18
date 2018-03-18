@@ -78,6 +78,29 @@ plus a participation grade. The detailed abstract of the project will be graded 
 
 ### Lab sessions / Parallel Curricula
 
+## DeepStack living document: https://goo.gl/zzMzoz
+
+* Resources:
+  * MAS: [Multi Agent Systems](http://www.masfoundations.org/mas.pdf)
+  * LT: [Marc Lanctot’s Thesis](http://mlanctot.info/files/papers/PhD_Thesis_MarcLanctot.pdf)
+  * ICRM: [Introduction to Counterfactual Regret Minimization](http://modelai.gettysburg.edu/2013/cfr/cfr.pdf)
+
+* Class 1: Normal-Form Games & Poker
+  * Motivation: Normal-Form games are the backbone for many of the techniques that later were used in DeepStack and Libratus. Understanding them will be a necessary foundation to understanding the innovations they presented.
+  * Required Reading:
+    * MAS sections 3.1 & 3.2
+    * LT pages 5-7
+    * [The Game of Poker](https://arxiv.org/pdf/1701.01724.pdf) (Supplementary #1 on pages 16-17)
+  * Optional Reading:
+    * [The State of Solving Large Incomplete-Information Games, and Application to Poker](https://www.cs.cmu.edu/~sandholm/solving%20games.aimag11.pdf) (2010)
+    * [Why Poker is Difficult](https://www.youtube.com/watch?v=2dX0lwaQRX0) (very good video by Noam Brown, the main author on Libratus. The first 18 minutes are most relevant for now.)
+  * Questions:
+    * Prove that in a zero-sum game, the nash equilibrium strategies are interchangeable. (LT)
+    * Prove that in a zero-sum game, the expected payoff to each player is the same for every equilibrium. (LT)
+    * Can you prove Lemma 3.1.6?
+    * Can you prove Theorem 3.1.8 (which is a really cool result)? 
+
+
 ## AlphaGoZero living document: https://goo.gl/iFZ4XD
 
 * Class 6: The Paper

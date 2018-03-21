@@ -108,3 +108,21 @@
 * [Generalization and Equilibrium in GANs, Arora et al](https://arxiv.org/pdf/1703.00573.pdf)
 
 
+<a name="lec7"></a>
+## Lecture 7: Discrete vs Continuous Time Optimization: The Convex Case
+
+### Main References:
+
+* [Large-scale Machine Learning and convex optimization, F. Bach, 17](http://www.di.ens.fr/%7Efbach/fbach_frejus_2017.pdf)
+
+* [A differential Equation for Modelling Nesterov's Accelerated Gradient Method, Su, Boyd, Candes, '14](https://arxiv.org/abs/1503.01243)
+
+* [A Variational Perspective on Accelerated Methods in Optimization, Wibisono, Wilson and Jordan](http://www.pnas.org/content/113/47/E7351?etoc=)
+
+### Further References
+
+* [Convex Optimization, Bubeck'15](https://arxiv.org/abs/1405.4980)
+
+* [A Lyapunov Analysis of Momentum Methods in Optimization, Wilson, Recht, Jordan'18](https://arxiv.org/abs/1611.02635)
+
+* [On Symplectic Optimization, Betancourt, Jordan, Wilson](https://arxiv.org/abs/1802.03653)

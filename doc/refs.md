@@ -126,3 +126,14 @@
 * [A Lyapunov Analysis of Momentum Methods in Optimization, Wilson, Recht, Jordan'18](https://arxiv.org/abs/1611.02635)
 
 * [On Symplectic Optimization, Betancourt, Jordan, Wilson](https://arxiv.org/abs/1802.03653)
+
+<a name="lec8"></a>
+## Lecture 8: Discrete vs Continuous Time Optimization: Stochastic and Nonconvex case
+
+### Main References:
+
+* [Bridging the Gap between Constant Step size Stochastic Gradient Descent and Markov Chains, Dieuleveut, Durmus, Bach](https://arxiv.org/abs/1707.06386)
+
+* [Stochastic Modified Equations and Adaptive Stochastic Gradient Descent Algorithms, Li, Tai & E](https://arxiv.org/abs/1511.06251)
+
+* [Non-Convex Learning via Stochastic Gradient Langevin Dynamics: A nonasymptotic Analysis, Raginsky, Rakhlin, Telgarsky](https://arxiv.org/abs/1702.03849)

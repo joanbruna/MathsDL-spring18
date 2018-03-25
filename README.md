@@ -85,6 +85,21 @@ plus a participation grade. The detailed abstract of the project will be graded 
   * LT: [Marc Lanctot’s Thesis](http://mlanctot.info/files/papers/PhD_Thesis_MarcLanctot.pdf)
   * ICRM: [Introduction to Counterfactual Regret Minimization](http://modelai.gettysburg.edu/2013/cfr/cfr.pdf)
 
+* Class 2: Optimality and Equilibrium 
+  * Motivation: How do you reason about games? The best strategy in multi-agent scenario depends on the choices of others. Game theory deals with this problem by identifying subsets of outcomes called solution concepts, of which fundamental ones are the Nash Equilibrium, Pareto Optimality, and Correlated Equilibrium.
+  * Required Reading:
+    * MAS Sections 3.3, 3.4.5, 3.4.7, 4.1, 4.2.4, 4.3, 4.6
+    * LT Section 2.1.1
+  * Optional Reading:
+    * The rest of section 3.4 in MAS.
+  * Questions:
+    * Why must every game have a Pareto Optimal strategy?
+    * Why must there always exist at least one Pareto Optimal Strategy in which all players adopt pure strategies?
+    * Why in common-payoff games do all Pareto optimal strategies have the same payoff?
+    * Why does definition 3.3.12 imply that the vertices of a simplex must all receive the same labels?
+    * Why in definition 3.4.12 does it not matter that the mapping is to pure strategies rather than a mixed strategy?
+    * Take your favorite normal-form game, find a Nash Equilibrium, and then find a corresponding Correlated Equilibrium.
+
 * Class 1: Normal-Form Games & Poker
   * Motivation: Normal-Form games are the backbone for many of the techniques that later were used in DeepStack and Libratus. Understanding them will be a necessary foundation to understanding the innovations they presented.
   * Required Reading:

@@ -96,7 +96,7 @@ plus a participation grade. The detailed abstract of the project will be graded 
     * Why must every game have a Pareto Optimal strategy?
     * Why must there always exist at least one Pareto Optimal Strategy in which all players adopt pure strategies?
     * Why in common-payoff games do all Pareto optimal strategies have the same payoff?
-    * Why does definition 3.3.12 imply that the vertices of a simplex must all receive the same labels?
+    * Why does definition 3.3.12 imply that the vertices of a simplex must all receive different labels?
     * Why in definition 3.4.12 does it not matter that the mapping is to pure strategies rather than a mixed strategy?
     * Take your favorite normal-form game, find a Nash Equilibrium, and then find a corresponding Correlated Equilibrium.
 

@@ -84,6 +84,19 @@ plus a participation grade. The detailed abstract of the project will be graded 
   * MAS: [Multi Agent Systems](http://www.masfoundations.org/mas.pdf)
   * LT: [Marc Lanctot’s Thesis](http://mlanctot.info/files/papers/PhD_Thesis_MarcLanctot.pdf)
   * ICRM: [Introduction to Counterfactual Regret Minimization](http://modelai.gettysburg.edu/2013/cfr/cfr.pdf)
+  
+* Class 3: Extensive-Form Games
+  * Motivation: What happens when players don't act simultaneously? Extensive-Form Games are an answer to this question. While this representation of a game always has a comparable Normal-Form, it's much more natural to reason about in this format.
+  * Required Reading:
+    * MAS 5.1.{1,2,3}
+    * MAS 5.2.{1,2,3}
+    * [Accelerating Best Response Calculation in Large Extensive Games](http://martin.zinkevich.org/publications/ijcai2011_rgbr.pdf) --> Important for understanding how to evaluate Poker algorithms.
+  * Optional Reading: 
+    * LT Section 2.1.2
+  * Questions:
+	  * What is the intuition for why not all normal form games can be transformed into perfect-form extensive games?
+	  * How are the set of behavioral strategies different from the set of mixed strategies?
+	  * Succinctly describe the technique demonstrated in the Accelerating Best Response paper.
 
 * Class 2: Optimality and Equilibrium 
   * Motivation: How do you reason about games? The best strategy in multi-agent scenario depends on the choices of others. Game theory deals with this problem by identifying subsets of outcomes called solution concepts, of which fundamental ones are the Nash Equilibrium, Pareto Optimality, and Correlated Equilibrium.

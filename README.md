@@ -90,11 +90,11 @@ plus a participation grade. The detailed abstract of the project will be graded 
   but has already achieved huge success as the foundation underlying DeepStack 
   and Libratus. In the first of two weeks dedicated to CFR, we first learn how 
   it works algorithmically.
-  * Required:
+  * Required Reading:
     * ICRM: 2.1-2.4, 3.1-3.4
     * LT 2.2
     * [Original Paper](http://poker.cs.ualberta.ca/publications/NIPS07-cfr.pdf)
-  * Optional: The first two below are CFR extensions used in DeepStack.
+  * Optional Reading: The first two below are CFR extensions used in DeepStack.
     * [CFR-D Paper](https://pdfs.semanticscholar.org/8216/0cbdcbeb13d53db85da928d8c42a789fdd69.pdf)
     * [CFR+](https://arxiv.org/pdf/1407.5042.pdf)
   * Questions:

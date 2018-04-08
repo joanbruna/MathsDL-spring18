@@ -83,8 +83,25 @@ plus a participation grade. The detailed abstract of the project will be graded 
 * Resources:
   * MAS: [Multi Agent Systems](http://www.masfoundations.org/mas.pdf)
   * LT: [Marc Lanctot’s Thesis](http://mlanctot.info/files/papers/PhD_Thesis_MarcLanctot.pdf)
-  * ICRM: [Introduction to Counterfactual Regret Minimization](http://modelai.gettysburg.edu/2013/cfr/cfr.pdf)
+  * ICRM: [Introduction to Counterfactual Regret Minimization](http://modelai.gettysburg.edu/2013/cfr/cfr.pdf**
   
+* Class 4: Counterfactual Regret Minimization #1
+  * Motivation: Counterfactual Regret Minimization (CFR) is only a decade old 
+  but has already achieved huge success as the foundation underlying DeepStack 
+  and Libratus. In the first of two weeks dedicated to CFR, we first learn how 
+  it works algorithmically.
+  * Required:
+    * ICRM: 2.1-2.4, 3.1-3.4
+    * LT 2.2
+    * [Original Paper](http://poker.cs.ualberta.ca/publications/NIPS07-cfr.pdf)
+  * Optional: The first two below are CFR extensions used in DeepStack.
+    * [CFR-D Paper](https://pdfs.semanticscholar.org/8216/0cbdcbeb13d53db85da928d8c42a789fdd69.pdf)
+    * [CFR+](https://arxiv.org/pdf/1407.5042.pdf)
+  * Questions:
+    * What is the difference between internal regret, external regret, and counterfactual regret?
+    * Implement CFR (or CFR+ / CFR-D) in your favorite programming language to play Leduc Poker or Liar’s Dice. 
+    * How do you know if you’ve implemented CFR correctly?
+
 * Class 3: Extensive-Form Games
   * Motivation: What happens when players don't act simultaneously? Extensive-Form Games are an answer to this question. While this representation of a game always has a comparable Normal-Form, it's much more natural to reason about in this format.
   * Required Reading:

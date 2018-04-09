@@ -117,7 +117,7 @@
 
 * [A differential Equation for Modelling Nesterov's Accelerated Gradient Method, Su, Boyd, Candes, '14](https://arxiv.org/abs/1503.01243)
 
-* [A Variational Perspective on Accelerated Methods in Optimization, Wibisono, Wilson and Jordan](http://www.pnas.org/content/113/47/E7351?etoc=)
+
 
 ### Further References
 
@@ -132,8 +132,42 @@
 
 ### Main References:
 
+* [A Variational Perspective on Accelerated Methods in Optimization, Wibisono, Wilson and Jordan](http://www.pnas.org/content/113/47/E7351?etoc=)
+
 * [Bridging the Gap between Constant Step size Stochastic Gradient Descent and Markov Chains, Dieuleveut, Durmus, Bach](https://arxiv.org/abs/1707.06386)
+
+
+
+<a name="lec9"></a>
+## Lecture 9: Discrete vs Continuous Time Optimization: Stochastic and Nonconvex case
+
+### Main References:
 
 * [Stochastic Modified Equations and Adaptive Stochastic Gradient Descent Algorithms, Li, Tai & E](https://arxiv.org/abs/1511.06251)
 
 * [Non-Convex Learning via Stochastic Gradient Langevin Dynamics: A nonasymptotic Analysis, Raginsky, Rakhlin, Telgarsky](https://arxiv.org/abs/1702.03849)
+
+* [Fokker-Plank Equations, Pavlotis Lecture Notes](http://wwwf.imperial.ac.uk/~pavl/lec_fokker_planck.pdf)
+
+<a name="lec10"></a>
+## Lecture 10: Nonconvex Optimization
+
+### Main References:
+
+* [Gradient Descent Converges to Minimisers, Lee et al.'16](https://arxiv.org/pdf/1710.07406.pdf)
+
+* [Gradient Descent can take exponential time to escape saddle points, Lee et al.'17](http://papers.nips.cc/paper/6707-gradient-descent-can-take-exponential-time-to-escape-saddle-points.pdf)
+
+* [Escaping from Saddle points-- online stochastic gradient for tensor decomposition, Ge et al.'15](https://arxiv.org/abs/1503.02101)
+
+* [Deep Learning without poor local minima, Kawaguchi'16](http://papers.nips.cc/paper/6111-deep-learning-without-poor-local-minima)
+
+### Further References
+
+* [How to escape Saddle points efficiently, Jin et al.'17](https://arxiv.org/abs/1703.00887)
+
+* [Random Matrices and the complexity of Spin Glasses, Auffinger et al'10](https://arxiv.org/abs/1003.1129)
+
+
+
+

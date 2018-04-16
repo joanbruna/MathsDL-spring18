@@ -83,7 +83,7 @@ plus a participation grade. The detailed abstract of the project will be graded 
 * Resources:
   * MAS: [Multi Agent Systems](http://www.masfoundations.org/mas.pdf)
   * LT: [Marc Lanctot’s Thesis](http://mlanctot.info/files/papers/PhD_Thesis_MarcLanctot.pdf)
-  * ICRM: [Introduction to Counterfactual Regret Minimization](http://modelai.gettysburg.edu/2013/cfr/cfr.pdf**
+  * ICRM: [Introduction to Counterfactual Regret Minimization](http://modelai.gettysburg.edu/2013/cfr/cfr.pdf**)
   * PLG: [Prediction, Learning, and Games](http://www.ii.uni.wroc.pl/~lukstafi/pmwiki/uploads/AGT/Prediction_Learning_and_Games.pdf)
   
 * Class 5: Counterfactual Regret Minimization #2

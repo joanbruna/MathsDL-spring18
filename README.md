@@ -84,7 +84,21 @@ plus a participation grade. The detailed abstract of the project will be graded 
   * MAS: [Multi Agent Systems](http://www.masfoundations.org/mas.pdf)
   * LT: [Marc Lanctot’s Thesis](http://mlanctot.info/files/papers/PhD_Thesis_MarcLanctot.pdf)
   * ICRM: [Introduction to Counterfactual Regret Minimization](http://modelai.gettysburg.edu/2013/cfr/cfr.pdf**
+  * PLG: [Prediction, Learning, and Games](http://www.ii.uni.wroc.pl/~lukstafi/pmwiki/uploads/AGT/Prediction_Learning_and_Games.pdf)
   
+* Class 5: Counterfactual Regret Minimization #2
+  * Motivation: We saw last week the practical side of CFR and how effective it 
+  can be. This week we’ll be diving more into the theory underlying it. This 
+  will culminate with Blackwell’s Approachability Theorem, a generalization of 
+  repeated two-player zero-sum games.
+  * Required:
+    * PLG: Section 7.3-7.7, 7.9
+  * Optional:
+    * [A Simple Adaptive Procedure Leading to Correlated Equilibrium](http://wwwf.imperial.ac.uk/~dturaev/Hart0.pdf) --> Important originating paper.
+    * [Prof. Johari's 2007 Class - 13](http://web.stanford.edu/~rjohari/teaching/notes/336_lecture13_2007.pdf)
+    * [Prof. Johari's 2007 Class - 14](http://web.stanford.edu/~rjohari/teaching/notes/336_lecture14_2007.pdf)
+    * [Prof. Johari's 2007 Class - 15](http://web.stanford.edu/~rjohari/teaching/notes/336_lecture15_2007.pdf)
+    
 * Class 4: Counterfactual Regret Minimization #1
   * Motivation: Counterfactual Regret Minimization (CFR) is only a decade old 
   but has already achieved huge success as the foundation underlying DeepStack 
@@ -92,7 +106,7 @@ plus a participation grade. The detailed abstract of the project will be graded 
   works algorithmically.
   * Required Reading:
     * ICRM: 2.1-2.4, 3.1-3.4
-    * LT 2.2
+    * LT: 2.2
     * Original Paper --> [Regret Minimization in Games with Incomplete Information](http://poker.cs.ualberta.ca/publications/NIPS07-cfr.pdf)
   * Optional Reading: The two below are CFR extensions used in DeepStack.
     * CFR-D --> [Solving Imperfect Information Games Using Decomposition](https://pdfs.semanticscholar.org/8216/0cbdcbeb13d53db85da928d8c42a789fdd69.pdf)

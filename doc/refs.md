@@ -186,3 +186,19 @@
 
 * [The landscape of the spiked tensor model, Ben Arous et al](https://arxiv.org/pdf/1711.05424.pdf)
 
+
+<a name="lec12"></a>
+## Lecture 12: Guest Lecture Behnam Neyshabur (IAS/NYU): Generalization in Deep Learning
+
+### Main References:
+
+* [Understanding Machine Learning: From Theory to Algorithms. Shai Shalev-Shwartz and Shai Ben-David. Cambridge University Press, 2014](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf): Part I (Foundations) and Part IV (Advanced Theory).
+
+### Further References:
+
+* [Implicit Regularization in Deep Learning. Behnam Neyshabur. PhD Thesis, 2017](https://arxiv.org/pdf/1709.01953.pdf). Part I (Implicit Regularization and Generalization)
+
+* [Spectrally-normalized margin bounds for neural networks. Bartlett, Peter L., Dylan J. Foster, and Matus J. Telgarsky. NIPS 2017](https://arxiv.org/pdf/1706.08498.pdf)
+
+* [Computing Nonvacuous Generalization Bounds for Deep (Stochastic) Neural Networks with Many More Parameters than Training Data. Dziugaite, Gintare Karolina, and Daniel M. Roy. UAI 2017](https://arxiv.org/pdf/1703.11008v2.pdf)
+

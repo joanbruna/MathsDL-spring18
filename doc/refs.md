@@ -166,14 +166,13 @@
 
 * [How to escape Saddle points efficiently, Jin et al.'17](https://arxiv.org/abs/1703.00887)
 
-* [Random Matrices and the complexity of Spin Glasses, Auffinger et al'10](https://arxiv.org/abs/1003.1129)
 
 <a name="lec11"></a>
 ## Lecture 11: Landscape of Optimization
 
 ### Main References:
 
-* [RANDOM MATRICES AND COMPLEXITY OF SPIN GLASSES, AUFFINGER, BEN AROUS, CERNY](https://arxiv.org/pdf/1003.1129.pdf)
+* [Random Matrices and the complexity of Spin Glasses, Auffinger et al'10](https://arxiv.org/abs/1003.1129)
 
 * [Complex energy landscapes in spiked-tensor and simple glassy models: ruggedness, arrangements of local minima and phase transitions, Ross, Ben Arous, Biroli, Camarotta](https://arxiv.org/pdf/1804.02686.pdf)
 

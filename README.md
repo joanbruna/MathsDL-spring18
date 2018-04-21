@@ -86,6 +86,21 @@ plus a participation grade. The detailed abstract of the project will be graded 
   * ICRM: [Introduction to Counterfactual Regret Minimization](http://modelai.gettysburg.edu/2013/cfr/cfr.pdf**)
   * PLG: [Prediction, Learning, and Games](http://www.ii.uni.wroc.pl/~lukstafi/pmwiki/uploads/AGT/Prediction_Learning_and_Games.pdf)
   
+* Class 6: DeepStack
+  * Motivation: Let’s read the paper!
+  * Required Reading:
+    * [DeepStack: Expert-Level Artificial Intelligence in Heads-Up No-Limit Poker](https://static1.squarespace.com/static/58a75073e6f2e1c1d5b36630/t/58b7a3dce3df28761dd25e54/1488430045412/DeepStack.pdf)
+    * [DeepStack Supplementary Materials](https://static1.squarespace.com/static/58a75073e6f2e1c1d5b36630/t/58bed28de3df287015e43277/1488900766618/DeepStackSupplement.pdf)
+    * [Michael Bowling on DeepStack](https://vimeo.com/212288252)
+  * Optional Reading:
+    * [DeepStack Implementation for Leduc Hold’em](https://github.com/lifrordi/DeepStack-Leduc)
+    * [Libratus](http://www.cs.cmu.edu/~sandholm/safeAndNested.aaa17WS.pdf)
+    * [Noam Brown on Libratus](https://www.youtube.com/watch?v=2dX0lwaQRX0)
+  * Questions:
+    * What are the differences between the approaches taken in DeepStack and in Libratus?
+    * Do you understand "Continual Re-solving"?
+    * Do you understand AIVAT?
+    
 * Class 5: Counterfactual Regret Minimization #2
   * Motivation: We saw last week the practical side of CFR and how effective it 
   can be. This week we’ll be diving more into the theory underlying it. This 
@@ -95,9 +110,13 @@ plus a participation grade. The detailed abstract of the project will be graded 
     * PLG: Section 7.3-7.7, 7.9
   * Optional:
     * [A Simple Adaptive Procedure Leading to Correlated Equilibrium](http://wwwf.imperial.ac.uk/~dturaev/Hart0.pdf) --> Important originating paper.
+    * [Prof. Johari's 2007 Class - 11](http://web.stanford.edu/~rjohari/teaching/notes/336_lecture11_2007.pdf)
     * [Prof. Johari's 2007 Class - 13](http://web.stanford.edu/~rjohari/teaching/notes/336_lecture13_2007.pdf)
     * [Prof. Johari's 2007 Class - 14](http://web.stanford.edu/~rjohari/teaching/notes/336_lecture14_2007.pdf)
     * [Prof. Johari's 2007 Class - 15](http://web.stanford.edu/~rjohari/teaching/notes/336_lecture15_2007.pdf)
+  * Questions:
+    * Prove Lemma 7.1.
+    * It’s brushed over in the proof of Theorem 7.5 (PLG), but prove that if set S is approachable, then every halfspace H containing S is approachable.
     
 * Class 4: Counterfactual Regret Minimization #1
   * Motivation: Counterfactual Regret Minimization (CFR) is only a decade old 

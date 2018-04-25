@@ -54,6 +54,8 @@ Notions of Harmonic Analysis, Differential Geometry and Stochastic Calculus are 
 The course will be graded with a final project -- consisting in an in-depth survey of a topic related to the syllabus,
 plus a participation grade. The detailed abstract of the project will be graded at the mid-term. 
 
+**Final Project is due May 1st by email to the instructors**
+
 ## Lectures
 
 | Week        | Lecture Date           | Topic       |  References                     |

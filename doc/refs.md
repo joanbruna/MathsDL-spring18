@@ -202,3 +202,24 @@
 
 * [Computing Nonvacuous Generalization Bounds for Deep (Stochastic) Neural Networks with Many More Parameters than Training Data. Dziugaite, Gintare Karolina, and Daniel M. Roy. UAI 2017](https://arxiv.org/pdf/1703.11008v2.pdf)
 
+
+<a name="lec11"></a>
+## Lecture 13: Landscape of Optimization of Deep Neural Networks. Positive and Negative Results
+
+### Main References:
+
+* [Neural Networks with Finite Intrinsic Dimension have no Spurious Valleys, Venturi et al.](https://arxiv.org/abs/1802.06384)
+
+* [A Critical View of Global Optimiality in Deep Learning, Yun et al.'18](https://arxiv.org/pdf/1802.03487.pdf)
+
+* [Are Resnets provably better than Linear Predictors?, Shamir'18](https://arxiv.org/pdf/1804.06739.pdf)
+
+
+### Further References
+
+* [Solving the quantum many-body problem with artificial neural networks, Carleo et al, Science'17](http://science.sciencemag.org/content/sci/355/6325/602.full.pdf)
+
+* [Essentially no barriers in Neural Network energy landscape, Draxler et al.'18](https://arxiv.org/pdf/1803.00885.pdf)
+
+* [The mechanics of n-player differentiable games, Balduzzi et al.'18](https://arxiv.org/pdf/1802.05642.pdf)
+

@@ -28,7 +28,7 @@ Besides the lectures, we will also run a parallel curricula (optional), which, s
 
 *  Introduction: the Curse of Dimensionality
 
-* Part I: Geometry of Data
+* Part I: Geometry of the Data
   * Euclidean Geometry: transportation metrics, CNNs , scattering. 
   * Non-Euclidean Geometry: Hausdorff-Gromov distances, Graph Neural Networks. 
   * Unsupervised Learning under Geometric Priors (Implicit vs explicit models, microcanonical, transportation metrics).

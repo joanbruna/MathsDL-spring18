@@ -17,7 +17,9 @@ __Lecture Instructor__: Joan Bruna (bruna@cims.nyu.edu)
 
 __Tutor (Parallel Curricula)__: Cinjon Resnick (cinjon@nyu.edu)
 
-
+lessons and lesson go on and on dnt stop the backround 
+has some problems and there not getting fixed for 
+two day sorry everyone
 ## Syllabus
 
 This Graduate-level topics course aims at offering a glimpse into the emerging mathematical questions around Deep Learning. In particular, we will focus on the different geometrical aspects surounding these models, from input geometric stability priors to the geometry of optimization, generalisation and learning. We will cover both the background and the current open problems. 
